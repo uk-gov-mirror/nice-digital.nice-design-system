@@ -16,7 +16,7 @@ export const PhaseTags = () => (
 
 export const GuidanceTags = () => (
 	<>
-		<Tag new>New</Tag> <Tag updated>Updated</Tag>{" "}
+		<Tag isNew>New</Tag> <Tag updated>Updated</Tag>{" "}
 		<Tag consultation>Consultation</Tag>
 	</>
 );
